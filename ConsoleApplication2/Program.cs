@@ -17,10 +17,10 @@ namespace ConsoleApplication2
 
             var tekst = "abc";
 
-            /*for (int i = 0; i < tekst.Length; i++ )
+            /*for (int i = 0; i < tekst.Length; i++ ) 
             {
                 actions[i] = () => Console.WriteLine(tekst[i]);
-            }*/
+            }*/ 
 
             int i = 0;
             foreach (var c in tekst)
